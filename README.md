@@ -1,0 +1,4 @@
+上課還是寫一下筆記好了
+
+沒什麼寫Markdown的習慣順便練習一下寫markdown file
+
