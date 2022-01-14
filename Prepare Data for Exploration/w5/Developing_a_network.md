@@ -51,3 +51,15 @@ Key takeaways 
 --------------
 
 Your connections will help you increase your knowledge and skills. Making and keeping connections is also important to those already working in the field of data analytics. So look for online communities that promote data analysis tools or advance data science. And if available where you live, look for meetups to connect with more people face-to-face. Take advantage of both routes for the best of both worlds!  It is easier to have a conversation and exchange information in-person, but the key advantage of online connections is that they aren't limited to where you live. Online communities might even connect you to an international crowd.
+
+---
+## Addition-find a mentor
+Basically, a mentor is a professional who shares their knowledge, skills, and experience to help you develop and grow. As a data analyst, you're not required to have a mentor, but those who find a good one never forget them. 
+
+Mentors come in many forms. They can be trusted advisors, sounding boards, critics, resources or all of the above. Sometimes the relationship happens naturally, but usually you need to formally ask them to mentor you because they might not know you're interested in their mentorship. 
+
+If there's no one you can connect with in your current work environment, you can find mentors anywhere from a social media platform, networking event or mentor matching program. For instance, websites like Score.org and MicroMentor.org and an app called Mentorship allow you to look for specific credentials that match your needs.
+
+- SCORE.org
+- MicroMentor.org
+- Mentorship
