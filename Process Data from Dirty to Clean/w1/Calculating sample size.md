@@ -35,6 +35,10 @@ Note: Sample size calculators use statistical formulas to determine a sample siz
 
 This recommendation is based on the Central Limit Theorem (CLT) in the field of probability and statistics. As sample size increases, the results more closely resemble the normal (bell-shaped) distribution from a large number of samples. A sample of 30 is the smallest sample size for which the CLT is still valid. Researchers who rely on regression analysis --  statistical methods to determine the relationships between controlled and dependent variables --  also prefer a minimum sample of 30.
 
+>Central Limit Theorem (CLT) = [中心極限定理 (CLT)](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86)。在適當的條件下，大量相互獨立隨機變數的均值經適當標準化後依分布收斂於標準常態分布。這組定理是數理統計學和誤差分析的理論基礎，指出了大量隨機變數之和近似服從常態分布的條件。
+
+>Regression analysis = [迴歸分析](https://zh.wikipedia.org/wiki/%E8%BF%B4%E6%AD%B8%E5%88%86%E6%9E%90)。可以幫助人們了解在只有一個自變數變化時應變數的變化量。一般來說，通過迴歸分析我們可以由給出的自變數估計應變數的條件期望。
+
 Still curious? Without getting too much into the math, check out these articles:
 
 -   [Central Limit Theorem (CLT)](https://www.investopedia.com/terms/c/central_limit_theorem.asp "Central Limit Theorem (CLT)"): This article by Investopedia explains the Central Limit Theorem and briefly describes how it can apply to an analysis of a stock index.
