@@ -36,19 +36,19 @@ Marks are basic visual objects like points, lines, and shapes. Every mark can b
 
 1.  Position - Where a specific mark is in space in relation to a scale or to other marks
 
-
+![](./img/marks_position.png)
 
 1.  Size - How big, small, long, or tall a mark is
 
-
+![](./img/marks_size.png)
 
 1.  Shape - Whether a specific object is given a shape that communicates something about it
 
-
+![](./img/marks_shape.png)
 
 1.  Color - What color the mark is
 
-
+![](./img/marks_color.png)
 
 *Channels*
 
@@ -56,15 +56,15 @@ Channels are visual aspects or variables that represent characteristics of the 
 
 1.  Accuracy - Are the channels helpful in accurately estimating the values being represented? For example, color is very accurate when communicating categorical differences, like apples and oranges. But it is much less effective when distinguishing quantitative data like 5 from 5.5.
 
-
+![](./img/channels_accuracy.png)
 
 1.  Popout - How easy is it to distinguish certain values from others? There are many ways of drawing attention to specific parts of a visual, and many of them leverage pre-attentive attributes like line length, size, line width, shape, enclosure, hue, and intensity.
 
-
+![](./img/channels_popout.png)
 
 1.  Grouping - How good is a channel at communicating groups that exist in the data? Consider the proximity, similarity, enclosure, connectedness, and continuity of the channel.
 
-
+![](./img/channels_grouping.png)
 
 But, remember: the more you emphasize different things, the less that emphasis counts. The more you emphasize one single thing, the more that counts.
 
