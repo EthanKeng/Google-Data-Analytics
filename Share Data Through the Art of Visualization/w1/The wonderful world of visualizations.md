@@ -19,12 +19,12 @@ Let's say you want to present the graduation frequency for a particular high sch
 
 From this table, you are able to present your data in a line chart like this:
 
-![]()
+![](./img/line_chart.png)
 
 
 Maybe your data is more specific than above. For example, let's say you are tasked with presenting the difference of graduation rates between male and female students. Then your chart would resemble something like this:
 
-
+![](./img/line_chart2.png)
 
 ### Column chart
 
@@ -42,17 +42,17 @@ The below is example data concerning sales of vehicles over the course of 5 mont
 
 Visually, it would resemble something like this:
 
-
+![](./img/column_chart.png)
 
 What would this column chart entail if we wanted to add the sales data for a competing car brand?
 
-
+![](./img/column_chart2.png)
 
 ### Heatmap
 
 Similar to bar charts, heatmaps also use color to compare categories in a data set. They are mainly used to show relationships between two variables and use a system of color-coding to represent different values. The following heatmap plots temperature changes for each city during the hottest and coldest months of the year.
 
-
+![](./img/hear_map.png)
 
 ### Pie chart
 
@@ -70,7 +70,7 @@ For example, let's say you are determining favorite movie categories among avid 
 
 Visually, it would resemble something like this:
 
-
+![](./img/pie_chart.png)
 
 ### Scatter plot
 
@@ -78,7 +78,7 @@ Scatter plots show relationships between different variables. Scatter plots are
 
 For example, you might want to show data of the relationship between temperature changes and ice cream sales. It would resemble something like this:
 
-
+![](./img/scatter_plot.png)
 
 As you may notice, the higher the temperature got, the more demand there was for ice cream -- so the scatter plot is great for showing the relationship between the two variables.
 
@@ -88,7 +88,7 @@ A distribution graph displays the spread of various outcomes in a dataset.
 
 Let's apply this to real data. To account for its supplies, a brand new coffee shop owner wants to measure how many cups of coffee their customers consume, and they want to know if that information is dependent on the days and times of the week. That distribution graph would resemble something like this:
 
-
+![](./img/distribution_graph.png)
 
 From this distribution graph, you may notice that the amount of coffee sales steadily increases from the beginning of the week, reaching the highest point mid-week, and then decreases towards the end of the week.
 
