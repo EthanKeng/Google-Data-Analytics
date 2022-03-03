@@ -46,7 +46,7 @@ Successfully implementing programs as a program manager can eventually make you 
 
 While project, program, and portfolio managers hold different types and levels of responsibility, they are all project managers. In Course 4 of this certificate program, you will learn more about differentiating projects, programs, and portfolios.
 
-![Graphic of project manager > program manager > portfolio manager](.\img\Graphic_of_project_manager.PNG)
+![Graphic of project manager > program manager > portfolio manager](./img/Graphic_of_project_manager.PNG)
 
 -   Program managers: Manage a group of projects that are related or similar to one another and handle the coordination of these projects. They facilitate effective communication between individual project managers and provide support where necessary. They also help create and manage long-term goals for their organization.
 
